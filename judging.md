@@ -1,4 +1,4 @@
-# Juding Criteria
+# Judging Criteria
 
 
 Judges will be making decisions based on the creativity of your solution, power of your data visualizations, demonstrated strategic value of your recommendations, and feasibility/given execution (on this day) of your proposal.
